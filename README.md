@@ -26,5 +26,10 @@ cd pesbuk
 
 python pesbuk.py
 
+# Information
+login menggunakan cookie agar akun anda tidak gampang terkena checkpoint
+untuk tutorial take cookie kalian bisa liat di yt
+banyak jangan manja!
+
 # Don't forget follow my instagram🔥
 # @ohsyitkir
